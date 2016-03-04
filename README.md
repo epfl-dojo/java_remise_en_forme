@@ -6,7 +6,7 @@ Un institut de remise en forme demande de développer un programme qui effectue 
 IMC = masse / taille^2
 (Indice de Masse Corporelle - masse [kg] - taille [m]
 
-| Classification des situation pondérales   | IMC (kg/m<sup>2</sup>) Femme  | IMC (kg/m<sup>2</sup>) Homme  | Risque pour la santé                    |
+| Classification des situations pondérales   | IMC (kg/m<sup>2</sup>) Femme  | IMC (kg/m<sup>2</sup>) Homme  | Risque pour la santé                    |
 | ----------------------------------------- |:------------------:|:------------------:|-----------------------------------------|
 | Maigreur / insuffisance pondérale         | < 19.1             | < 20.7             | Risque de malnutrition                  |
 | Poids santé                               | 19.1 - 20.8        | 20.7 - 26.4        | Risque normal                           |
