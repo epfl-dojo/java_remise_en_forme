@@ -12,7 +12,7 @@ IMC = masse / taille^2
 | Poids santé                               | 19.1 - 20.8        | 20.7 - 26.4        | Risque normal                           |
 | Embonpoint                                | 25.8 - 27.3        | 26.4 - 27.8        | Risque modérément augmenté              |
 | Surpoids                                  | 27.3 - 32.3        | 27.8 - 31.1        | Risque augmenté                         |
-| Obésité                                   | < 32.3             | < 31.1             | Risque nettement augmenté               |
+| Obésité                                   | > 32.3             | > 31.1             | Risque nettement augmenté               |
 
 
 ## Fréquence Cardiaque
