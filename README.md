@@ -6,7 +6,7 @@ Un institut de remise en forme demande de développer un programme qui effectue 
 IMC = masse / taille^2
 (Indice de Masse Corporelle - masse [kg] - taille [m]
 
-| Classification des situation pondérales   | IMC (kg/m2) Femme  | IMC (kg/m2) Homme  | Risque pour la santé                    |
+| Classification des situation pondérales   | IMC (kg/m<sup>2</sup>) Femme  | IMC (kg/m<sup>2</sup>) Homme  | Risque pour la santé                    |
 | ----------------------------------------- |:------------------:|:------------------:|-----------------------------------------|
 | Maigreur / insuffisance pondérale         | < 19.1             | < 20.7             | Risque de malnutrition                  |
 | Poids santé                               | 19.1 - 20.8        | 20.7 - 26.4        | Risque normal                           |
@@ -16,14 +16,14 @@ IMC = masse / taille^2
 
 
 ## Fréquence Cardiaque
-* Pour une femme: `FCmax = 226 - age`
-* Pour un homme: `FCmax = 220 - age`  
-  ou FC = Fréquence Cardiaque maximale et age [années]
+* Pour une femme: FC<sub>max</sub> = 226 - age
+* Pour un homme: FC<sub>max</sub> = 220 - age  
+  ou FC<sub>max</sub> = Fréquence Cardiaque maximale et age [années]
 
 ## Description
 Le programme doit demander les informations nécessaires à l'utilisateur et ensuite afficher les résultats.
 
-Pour les personnes qui souffrent d'embonpoint et de surpoids, le programme doit afficher une suggestion d'activité cardiovasculaire se situant entre 70 et 75% de la Fréquence Cardiaque maximale.
+Pour les personnes qui souffrent d'embonpoint et de surpoids, le programme doit afficher une suggestion d'activité cardiovasculaire se situant entre 70 et 75% de la Fréquence Cardiaque maximale (FC<sub>max</sub>).
 
 Pour les personnes souffrant d'obésité, un message doit inviter à une consultation chez un médecin.
 
